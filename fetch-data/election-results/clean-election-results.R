@@ -1,3 +1,5 @@
+library(tidyverse)
+
 valresultat <- readxl::read_excel(
   'slutligt-valresultat-europaparlamentet-2024-vallokalernas-rostrakning.xlsx',
   sheet='rosterEU'
