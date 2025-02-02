@@ -1,0 +1,2 @@
+GIS files for EU election 2024 districts downloaded from
+https://www.val.se/valresultat/europaparlamentet/2024/radata-och-statistik.html#kartor
