@@ -1,0 +1,1 @@
+This repo has been moved to the zetkin-datasci organization, out of the codebase of the main application, [here](https://github.com/zetkin-datasci/2024-eu-election-analysis). It should be deleted.
